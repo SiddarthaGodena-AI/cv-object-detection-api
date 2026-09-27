@@ -1,5 +1,9 @@
 # OpenCV Object Detection API
 
+![Tests](https://github.com/SiddarthaGodena-AI/cv-object-detection-api/actions/workflows/tests.yml/badge.svg)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A small FastAPI service for image detection, annotated PNG output, and bounded video analysis. Built with OpenCV; no PyTorch dependency.
 
 ## Features
