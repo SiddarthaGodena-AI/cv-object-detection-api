@@ -1,0 +1,5 @@
+opencv-python-headless==4.11.0.86
+numpy==1.26.4
+fastapi>=0.115,<1
+uvicorn>=0.30,<1
+python-multipart>=0.0.18,<1
